@@ -140,6 +140,7 @@
   width: 71%;
   color: var(--very-dark-blue);
   margin-bottom: var(--space-2);
+  line-height: 1.2;
 }
 
 .product_description {
