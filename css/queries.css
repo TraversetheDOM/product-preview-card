@@ -1,0 +1,17 @@
+/* Media Queries */
+
+/* For screen sizes which are 768px and above */
+@media screen and (min-width: 48em) {
+  .container {
+    max-width: 68rem;
+  }
+
+  .product_grid {
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+  }
+
+  .product_title {
+    width: 70%;
+  }
+}
