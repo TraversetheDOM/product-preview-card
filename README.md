@@ -33,8 +33,8 @@ _A mobile view of the product preview card component_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/product-preview-card)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/product-preview-card/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/product-preview-card)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/product-preview-card/)
 
 ## My process
 
