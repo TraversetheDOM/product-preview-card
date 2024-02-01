@@ -33,8 +33,8 @@ _A mobile view of the product preview card component_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/product-preview-card)
-- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/product-preview-card/)
+- Solution URL: [Add solution URL here](https://github.com/stephenikuomola/product-preview-card)
+- Live Site URL: [Add live site URL here](https://stephenikuomola.github.io/product-preview-card/)
 
 ## My process
 
@@ -48,6 +48,6 @@ _A mobile view of the product preview card component_
 
 ## Author
 
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin- [Ikuomola Stephen](https://www.linkedin.com/in/ikuomola-stephen/)
-- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/salutDami)
+- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/stephenikuomola)
